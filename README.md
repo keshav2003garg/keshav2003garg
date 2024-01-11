@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **keshav2003garg@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10fzPqv4LvviUOjDZZ9wyuCT51K7PtO8B/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://www.keshavgarg.me/resume.pdf)
 
 - ⚡ Fun fact **I think I am addicted to coding**
 
