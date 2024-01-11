@@ -1,23 +1,30 @@
 <h1 align="center">Hi 👋, I'm Keshav Garg</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">🚀A passionate developer crafting digital experiences with precision🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav2003garg&label=Profile%20views&color=0e75b6&style=flat" alt="keshav2003garg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshav2003garg" alt="keshav2003garg" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript, Langchain**
+- 🔭 I’m currently working on [QuerySpark](https://github.com/keshav2003garg/queryspark)
 
-- 👯 I’m looking to collaborate on **any React/React Native based project**
+- 🌱 I’m currently learning **TypeScript, Langchain, LLMs, etc**
 
-- 💬 Ask me about **react, react-native,**
+- 👯 I’m looking to collaborate on **any react/react-native based project**
+
+- 👨‍💻 All of my projects are available at [https://www.keshavgarg.me/](https://www.keshavgarg.me/)
+
+- 💬 Ask me about **react, react-native, mern stack.**
 
 - 📫 How to reach me **keshav2003garg@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10fzPqv4LvviUOjDZZ9wyuCT51K7PtO8B/view?usp=drive_link)
 
+- ⚡ Fun fact **I think I am addicted to coding**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/keshav2003garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav2003garg" height="30" width="40" /></a>
+<a href="https://instagram.com/_gargkeshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gargkeshav" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/keshavgarg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshavgarg_" height="30" width="40" /></a>
 </p>
 
@@ -28,5 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav2003garg&show_icons=true&locale=en" alt="keshav2003garg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshav2003garg&" alt="keshav2003garg" /></p>
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav2003garg&" alt="keshav2003garg" /></p>
